@@ -546,7 +546,7 @@ h1 {
     }
     /* mobile responsive test */
     .game-text {
-        top: 240px;
+        top: 190px;
     }
 
     .rules-btn {
@@ -555,6 +555,10 @@ h1 {
 
     .game-end {
         bottom: 90px;
+    }
+
+    .play-btn-color.player.active, .play-btn-color.house, .house-wait {
+        top: 250px;
     }
     /* eof responsive test */
 }
