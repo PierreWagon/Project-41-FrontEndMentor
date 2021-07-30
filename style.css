@@ -510,6 +510,10 @@ h1 {
     .play-btn-color.player.active, .you-picked, .play-btn-color.house, .house-wait, .house-picked {
         top: 35%;
     }
+
+    #rules {
+        width: 250px;
+    }
 }
 
 @media screen and (max-width: 490px) {
