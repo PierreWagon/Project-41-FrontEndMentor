@@ -544,6 +544,19 @@ h1 {
         margin-left: -10px;
         width: 100%;
     }
+    /* mobile responsive test */
+    .game-text {
+        top: 240px;
+    }
+
+    .rules-btn {
+        bottom: 10px;
+    }
+
+    .game-end {
+        bottom: 90px;
+    }
+    /* eof responsive test */
 }
 
 @media screen and (max-width: 375px) {
